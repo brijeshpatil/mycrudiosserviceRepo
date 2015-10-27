@@ -18,7 +18,7 @@ namespace CRUD_ServiceForIOS
     // [System.Web.Script.Services.ScriptService]
     public class MyCRUDService : System.Web.Services.WebService
     {
-        SqlConnection con = new SqlConnection(@"Data Source=TOPS49\SQLEXPRESS;Initial Catalog=MyIOSServiceDB;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Server=5b0ed4ca-a4d3-4e6d-8831-a53e00683b63.sqlserver.sequelizer.com;Database=db5b0ed4caa4d34e6d8831a53e00683b63;User ID=kqffmqtpgrswitel;Password=gvZiKhN3UwD6xeYXaRtsbt2FauUU54ziRZtoiFyq8tygiXnjZ2ZJB2AVBthpv37Z;");
         SqlDataAdapter da;
         SqlCommand cmd;
         DataTable dt;
