@@ -1,0 +1,6 @@
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\bin\CRUD_ServiceForIOS.dll.config
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\bin\CRUD_ServiceForIOS.dll
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\bin\CRUD_ServiceForIOS.pdb
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\obj\Debug\CRUD_ServiceForIOS.csprojResolveAssemblyReference.cache
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\obj\Debug\CRUD_ServiceForIOS.dll
+D:\Brijesh\CRUD_ServiceForIOS\CRUD_ServiceForIOS\obj\Debug\CRUD_ServiceForIOS.pdb
